@@ -1,2 +1,2 @@
 # ezmusic
-A clone of spotify but for youtube and it's free
+A free Mac spotify clone for youtube.
