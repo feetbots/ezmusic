@@ -4,13 +4,14 @@ A MacOS spotify clone for youtube videos.
 ## Requirements
 - MacOS Lion (10.7+)
 - Xcode CLT
+- Requirements.txt
 ```
 xcode-select --install
+pip(3) install -r requirements.txt
 ```
 
 ## Installation & Usage
-Download and run the installer file to get started.\
-It will take you through the steps to install the versions\
+Download and run the installer file to get started.\\
 that you want.\
 \
 You can launch the app by typing `ezmusic` into a terminal.
