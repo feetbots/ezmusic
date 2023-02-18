@@ -11,8 +11,7 @@ pip(3) install -r requirements.txt
 ```
 
 ## Installation & Usage
-Download and run the installer file to get started.\\
-that you want.\
+Download and run the installer file to get started.\
 \
 You can launch the app by typing `ezmusic` into a terminal.
 
