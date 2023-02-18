@@ -1,0 +1,6 @@
+Cython
+kivy
+pyobjc
+pyperclip
+pytube
+tooltils
