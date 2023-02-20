@@ -3,11 +3,11 @@ A MacOS spotify clone for youtube videos.
 
 ## Requirements
 - MacOS Lion (10.7+)
-- Xcode CLT
 - Requirements.txt
+- Xcode CLT
 ```
-xcode-select --install
 pip(3) install -r requirements.txt
+xcode-select --install
 ```
 
 ## Installation & Usage
