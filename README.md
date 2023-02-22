@@ -22,7 +22,7 @@ You can launch the app by typing `ezmusic` into a terminal.
 
 ## Info
 Project maintained by feetbots (repository owner)\
-You can contact me on [Discord](https://discord.com/) at `ebots#7424` or `ebots#6157`
+You can contact me on [Discord](https://discord.com/) at `ebots#6157`
 
 ## License
 - [MIT](https://choosealicense.com/licenses/mit/)
