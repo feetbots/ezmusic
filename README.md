@@ -16,8 +16,8 @@ Download and run the installer file to get started.\
 You can launch the app by typing `ezmusic` into a terminal.
 
 ## Roadmap
-- More support for Windows and Linux systems
-- Faster performance utilising Cython
+- Support for Windows and Linux systems
+- Rewriting garbled code for efficiency
 - Less packages required
 
 ## Info
