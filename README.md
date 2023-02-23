@@ -2,7 +2,7 @@
 A MacOS spotify clone for youtube videos.
 
 ## Requirements
-- MacOS Lion (10.7+)
+- MacOS Sierra (10.12+)
 - Requirements.txt
 - Xcode CLT
 ```
