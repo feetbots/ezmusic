@@ -21,8 +21,8 @@ You can launch the app by typing `ezmusic` into a terminal.
 - Less packages required
 
 ## Info
+- Project maintained by `ebots#6157`([Discord](https://discord.com/app/))
 - License: [MIT](https://choosealicense.com/licenses/mit/)
-- You can contact me at `ebots#6157`
 
 ## Credits
 ### Playing sound with NSSound
